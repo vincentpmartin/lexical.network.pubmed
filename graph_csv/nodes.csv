@@ -1,0 +1,76 @@
+ID;Label;Groupe;n
+4;OSAS;4;35688
+9;EDS;3;22662
+3;ESS;1;19254
+1;CPAP;2;11755
+2;AHI;4;7983
+21;Sleep Quality;1;7355
+10;PSG;4;6970
+13;Insomnia;2;6303
+14;QoL;1;5629
+5;PD;1;5618
+18;Narcolepsy;3;5497
+16;PSQI;1;4634
+11;REM;3;4609
+23;BMI;4;4364
+6;RLS;3;4125
+17;MSLT;3;3993
+8;SDB;2;3685
+27;TST;3;3335
+30;Sleep Duration;2;2497
+15;Arousal;3;2331
+12;EEG;3;2106
+7;ADHD;2;1576
+20;Hypersomnia;3;1204
+29;KSS;2;1202
+19;PVT;2;1156
+39;SSS;2;990
+25;MWT;3;898
+26;ISI;1;886
+22;RDI;4;874
+35;SF36;1;856
+28;BDI;1;848
+34;ODI;4;790
+33;Neuropsy;1;641
+37;FSS;1;641
+38;Sleep Behavior;3;602
+41;MRI;3;566
+32;FOSQ;4;551
+58;VAS;1;523
+47;Nervous system;3;425
+24;children;2;391
+49;slow wave sleep;3;331
+31;ERP;3;268
+56;patients moderate severe;4;255
+43;parasomnia;2;229
+64;sleepiness scale score;4;228
+53;sleep wake cycle;3;224
+50;sleep breathing disorders;4;200
+72;HAD;1;186
+59;patients mild moderate;4;181
+70;sleep time sleep;3;178
+61;index sleepiness scale;1;169
+66;UPDRS;1;164
+48;stop bang questionnaire;4;157
+36;traumatic brain injury;1;152
+62;difficulty falling asleep;2;151
+65;patients obstructive syndrome;4;150
+55;Neurophysiology;3;147
+45;upper airway resistance;4;143
+44;lowest oxygen saturation;4;139
+73;sleepiness sleepiness scale;2;138
+76;quality index sleepiness;1;137
+42;sleep wake disturbances;1;136
+40;night time sleep;1;133
+69;sleep index sleepiness;1;132
+63;heart rate variability;2;127
+46;prevalence sleep disorders;3;125
+54;circadian rhythm sleep;2;124
+57;sleep habits questionnaire;2;124
+68;sleep disorders common;3;123
+52;motor vehicle accidents;4;122
+51;upper airway obstruction;4;121
+67;Classification of sleep disorders;3;240
+71;mild moderate severe;4;120
+60;activities daily living;1;119
+75;sleep disorder characterized;3;118
